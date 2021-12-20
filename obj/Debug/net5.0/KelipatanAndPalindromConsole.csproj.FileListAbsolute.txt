@@ -1,0 +1,16 @@
+D:\MVS19\Project\KelipatanAndPalindromConsole\bin\Debug\net5.0\KelipatanAndPalindromConsole.exe
+D:\MVS19\Project\KelipatanAndPalindromConsole\bin\Debug\net5.0\KelipatanAndPalindromConsole.deps.json
+D:\MVS19\Project\KelipatanAndPalindromConsole\bin\Debug\net5.0\KelipatanAndPalindromConsole.runtimeconfig.json
+D:\MVS19\Project\KelipatanAndPalindromConsole\bin\Debug\net5.0\KelipatanAndPalindromConsole.runtimeconfig.dev.json
+D:\MVS19\Project\KelipatanAndPalindromConsole\bin\Debug\net5.0\KelipatanAndPalindromConsole.dll
+D:\MVS19\Project\KelipatanAndPalindromConsole\bin\Debug\net5.0\ref\KelipatanAndPalindromConsole.dll
+D:\MVS19\Project\KelipatanAndPalindromConsole\bin\Debug\net5.0\KelipatanAndPalindromConsole.pdb
+D:\MVS19\Project\KelipatanAndPalindromConsole\obj\Debug\net5.0\KelipatanAndPalindromConsole.csproj.AssemblyReference.cache
+D:\MVS19\Project\KelipatanAndPalindromConsole\obj\Debug\net5.0\KelipatanAndPalindromConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVS19\Project\KelipatanAndPalindromConsole\obj\Debug\net5.0\KelipatanAndPalindromConsole.AssemblyInfoInputs.cache
+D:\MVS19\Project\KelipatanAndPalindromConsole\obj\Debug\net5.0\KelipatanAndPalindromConsole.AssemblyInfo.cs
+D:\MVS19\Project\KelipatanAndPalindromConsole\obj\Debug\net5.0\KelipatanAndPalindromConsole.csproj.CoreCompileInputs.cache
+D:\MVS19\Project\KelipatanAndPalindromConsole\obj\Debug\net5.0\KelipatanAndPalindromConsole.dll
+D:\MVS19\Project\KelipatanAndPalindromConsole\obj\Debug\net5.0\ref\KelipatanAndPalindromConsole.dll
+D:\MVS19\Project\KelipatanAndPalindromConsole\obj\Debug\net5.0\KelipatanAndPalindromConsole.pdb
+D:\MVS19\Project\KelipatanAndPalindromConsole\obj\Debug\net5.0\KelipatanAndPalindromConsole.genruntimeconfig.cache
